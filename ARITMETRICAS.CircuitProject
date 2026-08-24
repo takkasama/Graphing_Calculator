@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="02bf6fa4-5920-4e35-b868-e6acd8dcdb8c" Name="Nombre del proyecto" Zoom="0.7000000000000001" LogicalCircuitId="b0df4cc3-5397-4670-8de2-072225709e41" />
+	<Project ProjectId="02bf6fa4-5920-4e35-b868-e6acd8dcdb8c" Name="Nombre del proyecto" Zoom="0.7000000000000001" LogicalCircuitId="cff9fbbb-548f-4314-9201-16ba39b28d5d" />
 	<LogicalCircuit LogicalCircuitId="cff9fbbb-548f-4314-9201-16ba39b28d5d" Name="Sumador-8bits-v1" Notation="Principal" />
 	<LogicalCircuit LogicalCircuitId="cfde7499-48e6-4ca2-8815-629e32f39d9b" Name="Suma-1bit" Notation="Suma-1bit" />
 	<LogicalCircuit LogicalCircuitId="65d6da1a-ec1f-4e9c-a40d-aa666190ce81" Name="Sumador-2-bits" Notation="Sumador-2-bits" />
