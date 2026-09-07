@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="92db0cab-48f3-4649-ae1e-4f7e9ee401f1" Name="Nombre del proyecto" Zoom="0.7000000000000001" LogicalCircuitId="2276141c-1f6a-46f8-9f2e-61f8fa32634c" />
+	<Project ProjectId="92db0cab-48f3-4649-ae1e-4f7e9ee401f1" Name="Nombre del proyecto" Zoom="0.7000000000000001" LogicalCircuitId="65d6da1a-ec1f-4e9c-a40d-aa666190ce81" />
 	<LogicalCircuit LogicalCircuitId="9d0d5212-7366-401f-8c9a-b540c8dfa243" Name="Principal" Notation="Principal" />
 	<LogicalCircuit LogicalCircuitId="a4640ada-5e7d-44ef-a955-364ba68355f4" Name="FlipFlop-SR" Notation="FlipFlop-SR" CircuitShape="Alu" />
 	<LogicalCircuit LogicalCircuitId="31cc0194-e007-47e5-b256-1c295dc6765f" Name="Memoria 8 bits" Notation="Memoria 8 bits" />
