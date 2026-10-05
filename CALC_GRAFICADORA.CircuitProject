@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="adad0329-29dd-4fa7-bb7f-cabef737ecb1" Name="GRAFICADOR" Zoom="0.6" Frequency="1" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" />
+	<Project ProjectId="adad0329-29dd-4fa7-bb7f-cabef737ecb1" Name="GRAFICADOR" Zoom="1.4000000000000001" Frequency="1" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" />
 	<CollapsedCategory Name="TESTER" />
 	<LogicalCircuit LogicalCircuitId="df51e4ad-ea23-4903-a068-84a31eda471c" Name="D" Notation="D" Category="FLIP-FLOP" CircuitShape="Mux" />
 	<LogicalCircuit LogicalCircuitId="1a7f6397-8b8b-4892-a101-a5855651a599" Name="D - SR" Notation="D - SR" Category="FLIP-FLOP" />
@@ -4093,8 +4093,6 @@
 	<Wire WireId="6aa842b9-bb28-414c-a664-27b4c960cce5" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="47" Y1="54" X2="57" Y2="54" />
 	<Wire WireId="3a8196ec-e4fb-4d4a-8b53-b38cd8472700" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="51" Y1="44" X2="51" Y2="59" />
 	<Wire WireId="5978ac98-f9cb-4fcc-9e81-445b4c5e29b8" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="51" Y1="59" X2="57" Y2="59" />
-	<Wire WireId="1af7bd46-8290-40f7-8363-48a2fab77452" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="57" Y1="60" X2="57" Y2="59" />
-	<Wire WireId="426d4a7c-908b-4d73-9b9d-3908f7af9eaf" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="57" Y1="60" X2="57" Y2="59" />
 	<Wire WireId="3b37e40f-61a6-47ae-8799-4a585b73c19d" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="49" Y1="37" X2="49" Y2="60" />
 	<Wire WireId="9b7244db-0812-44cb-8fe5-a00f611985a5" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="49" Y1="60" X2="57" Y2="60" />
 	<Wire WireId="48a1280d-5466-44d3-9e81-24a43c6180d5" LogicalCircuitId="de4b0d80-0d4b-4868-ae75-eab02d066151" X1="46" Y1="33" X2="46" Y2="61" />
